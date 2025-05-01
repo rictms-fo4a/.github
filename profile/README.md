@@ -1,28 +1,47 @@
-# Department of Social Welfare and Development - Regional Information and Communication Technology Management Section - Field Office 4A
+# 📌 DSWD - RICTMS Field Office IV-A
 
-Welcome to the official GitHub page of **Department of Social Welfare and Development - Regional Information and Communication Technology Management Section - Field Office 4A (DSWD - RICTMS FO4A)**.
+Welcome to the official GitHub organization of the  
+**Department of Social Welfare and Development**  
+**Regional Information and Communication Technology Management Section – Field Office IV-A (DSWD - RICTMS FO4A)**
 
-We are dedicated to enhancing the technological infrastructure and digital services of the Department of Social Welfare and Development in Region IV-A.
+We build digital tools and systems to support the delivery of social welfare services in CALABARZON (Region IV-A).
 
-## Organization Team
-- **DSWD - Solutions Development Team**
+---
 
-## Projects
-Here are some of the projects we're currently working on:
+![GitHub Org Repo Count](https://img.shields.io/badge/Repositories-Total%20Count:%203-014a70?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Email](https://img.shields.io/badge/Contact-rictmsfo4a@dswd.gov.ph-ff6700?style=for-the-badge&logo=gmail&logoColor=white)
 
-### 1. **Gender-Based Violence Information System (GBVIS)**
-   - A system developed to help track and manage cases related to gender-based violence in the region.
+---
 
-### 2. **Social Pension Information System (SocPen IS)**
-   - A system designed to monitor and manage the social pension distribution for senior citizens in the region.
+## 👨‍💻 Our Team
 
-### 3. **Crisis Intervention Section - Financial Management Division Monitoring System (CFMS)**
-   - A system that helps track and manage the financial assistance provided by the Crisis Intervention Section (CIS) under the Financial Management Division (FMD).
+**DSWD - Solutions Development Team**  
+A team of developers and technologists working to improve government services through modern software solutions.
 
-## Organization Links
-- [Official Website](https://fo4a.dswd.gov.ph/)
-- [Linktree](https://linktr.ee/dswdserves)
+---
 
-## Contact Information
-For inquiries, you can reach us at:
-- Email: [rictms4a@dswd.gov.ph](mailto:rictms4a@dswd.gov.ph)
+## 🚀 Projects
+
+### 🟣 Gender-Based Violence Information System (GBVIS)
+A system for managing and tracking gender-based violence cases to help streamline reporting and response.
+
+### 🟢 Social Pension Information System (SocPen IS)
+Used to monitor and manage social pension distribution to eligible senior citizens.
+
+### 🔵 Crisis Intervention Section – Financial Management Division Monitoring System (CFMS)
+Tracks and manages emergency financial assistance provided by CIS under FMD.
+
+---
+
+## 🔗 Links
+
+- 🌐 [Official Website](https://fo4a.dswd.gov.ph/)  
+- 🌳 [Linktree](https://linktr.ee/dswdserves)
+
+---
+
+## 📬 Contact Us
+
+✉️ Email: [rictmsfo4a@dswd.gov.ph](mailto:rictmsfo4a@dswd.gov.ph)
+
+Let’s build systems that serve the people. 🇵🇭
