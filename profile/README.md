@@ -21,16 +21,16 @@ A team of developers and technologists working to improve government services th
 
 ## 🚀 Projects
 
-### 🟣 Gender-Based Violence Information System (GBVIS)
-A system for managing and tracking gender-based violence cases to help streamline reporting and response.
+### 🔵 Crisis Intervention Section – Financial Management Division Monitoring System (CFMS)
+Tracks and manages emergency financial assistance provided by CIS under FMD.
 
 ## 🚀 Discontinued Projects
 
 ### 🟢 Social Pension Information System (SocPen IS)
 Used to monitor and manage social pension distribution to eligible senior citizens.
 
-### 🔵 Crisis Intervention Section – Financial Management Division Monitoring System (CFMS)
-Tracks and manages emergency financial assistance provided by CIS under FMD.
+### 🟣 Gender-Based Violence Information System (GBVIS)
+A system for managing and tracking gender-based violence cases to help streamline reporting and response.
 
 ---
 
