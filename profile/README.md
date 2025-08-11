@@ -8,10 +8,6 @@ We build digital tools and systems to support the delivery of social welfare ser
 
 ---
 
-![GitHub Email](https://img.shields.io/badge/Contact-rictmsfo4a@dswd.gov.ph-ff6700?style=for-the-badge&logo=gmail&logoColor=white)
-
----
-
 ## 👨‍💻 Our Team
 
 **DSWD - Solutions Development Team**  
