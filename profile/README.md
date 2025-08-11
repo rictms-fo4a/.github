@@ -8,7 +8,6 @@ We build digital tools and systems to support the delivery of social welfare ser
 
 ---
 
-![GitHub Org Repo Count](https://img.shields.io/badge/Repositories-Total%20Count:%203-014a70?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Email](https://img.shields.io/badge/Contact-rictmsfo4a@dswd.gov.ph-ff6700?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
@@ -24,6 +23,8 @@ A team of developers and technologists working to improve government services th
 
 ### 🟣 Gender-Based Violence Information System (GBVIS)
 A system for managing and tracking gender-based violence cases to help streamline reporting and response.
+
+## 🚀 Discontinued Projects
 
 ### 🟢 Social Pension Information System (SocPen IS)
 Used to monitor and manage social pension distribution to eligible senior citizens.
